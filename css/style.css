@@ -1,0 +1,67 @@
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600);
+
+#gallery-carousel .post-slider{
+	position: relative;
+}
+#gallery-carousel:hover .carousel-caption{
+	opacity: 1;
+}
+
+#gallery-carousel .carousel-caption {
+	right: 0;
+	left: 0;
+	bottom: 0;
+	opacity: 0;
+	padding: 10px;
+	background: rgba(0,0,0,.5);
+	position: absolute;
+	text-shadow: 0 0px 0px rgba(0,0,0,.6);
+	-webkit-transition: 300ms;
+	-moz-transition: 300ms;
+	-o-transition: 300ms;
+	transition: 300ms;
+}
+
+#gallery-carousel .carousel-caption p {
+	margin: 0;
+	font-size: 13px;
+	line-height: 21px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+}
+
+#gallery-carousel .carousel-caption a{
+	color: #fff;
+	text-decoration: none;
+}
+
+#gallery-carousel img,
+#gallery-carousel-two img {
+	width: 100%;
+}
+
+#gallery-carousel .carousel-control,
+#gallery-carousel-two .carousel-control {
+	top: 50%;
+	margin-top: -12px;
+	width: 20px;
+	height: 24px;
+	line-height: 25px;
+	text-shadow: none;
+	background: #2d85b6;
+	color: #fff;
+	font-size: 12px;
+}
+
+#gallery-carousel .carousel-control.left,
+#gallery-carousel-two .carousel-control.left {
+	left: 4px;
+	background-image: none;
+}
+
+#gallery-carousel .carousel-control.right,
+#gallery-carousel-two .carousel-control.right {
+	right: 4px;
+	background-image: none;
+}
