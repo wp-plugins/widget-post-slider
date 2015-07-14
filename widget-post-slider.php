@@ -4,7 +4,7 @@ Plugin Name: Widget Post Slider
 Plugin URI: http://shapedtheme.com/demo/plugins/widget-post-slider
 Author: ShapedTheme
 Author URI: http://shapedtheme.com
-Description: Widget Post Slider to display posts from category.
+Description: Widget Post Slider to display posts image in a slider from category.
 Version: 1.0
 License: GPL2
 Text Domain: shaped_theme
