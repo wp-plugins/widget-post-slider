@@ -3,7 +3,7 @@ Contributors: rubel_miah, shapedtheme, shamimmiashuhagh
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=ashidmiah@gmail.com&lc=US&item_name=Donate&currency_code=USD&bn=PP-DonationsBF:btn_donate_SM.gif:NonHostedGuest
 Tags: widget post slider, latest posts widget slider, widget, posts widget, category posts slider, latest category posts slider, post thumbnails, slider widget, widget slider post
 Requires at least: 4+
-Tested up to: 4.2.2
+Tested up to: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
