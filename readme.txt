@@ -1,6 +1,6 @@
 === Widget Post Slider ===
-Contributors: rubel_miah, shapedtheme, shamimmiashuhagh
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=ashidmiah@gmail.com&lc=US&item_name=Donate&currency_code=USD&bn=PP-DonationsBF:btn_donate_SM.gif:NonHostedGuest
+Contributors: shapedplugin, rubel_miah, shapedtheme, shamimmiashuhagh
+Donate link: http://shapedplugin.com
 Tags: widget post slider, latest posts widget slider, widget, posts widget, category posts slider, latest category posts slider, post thumbnails, slider widget, widget slider post
 Requires at least: 4+
 Tested up to: 4.3
@@ -11,11 +11,12 @@ Widget Post Slider to display posts image in a slider from category.
 
 
 == Description ==
-<h4>Widget Post Slider by <a href="http://shapedtheme.com"></a>http://shapedtheme.com</h4>
+<h4>Widget Post Slider by <a href="http://shapedplugin.com"></a>shapedplugin.com</h4>
 <p>If you want to add a widget to show posts images with caption in a carousel/slider Widget Post Slider is for you. This plugin brings all the post images with the title from blog posts. You can show limited slider too. It It's light weight and simple install activate plugin. It's user option is so simple to use. It loads very fast. It's fully responsive that adapts to any device like tablet and mobile. You don't need to add any extra jQuery or css, just install and active</p>
 
 
-<a href="http://shapedtheme.com/demo/plugins/widget-post-slider">Live demo</a>
+<a href="http://shapedplugin.com/demo/?page_id=4">Live demo</a>
+<a href="http://shapedplugin.com/support/">Support</a>
 
 
 <h4>Plugin Features</h4>
