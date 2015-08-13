@@ -17,8 +17,6 @@ Widget Post Slider to display posts image in a slider from category.
 
 <a href="http://shapedplugin.com/demo/?page_id=4">Live demo</a>
 
-|
-
 <a href="http://shapedplugin.com/support/">Support</a>
 
 
