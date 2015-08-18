@@ -11,6 +11,9 @@ Widget Post Slider to display posts image in a slider from category.
 
 
 == Description ==
+[youtube https://www.youtube.com/watch?v=5uf55sLb4V0]
+
+
 <h4>Widget Post Slider by <a href="http://shapedplugin.com">shapedplugin.com</a></h4>
 <p>If you want to add a widget to show posts images with caption in a carousel/slider Widget Post Slider is for you. This plugin brings all the post images with the title from blog posts. You can show limited slider too. It It's light weight and simple install activate plugin. It's user option is so simple to use. It loads very fast. It's fully responsive that adapts to any device like tablet and mobile. You don't need to add any extra jQuery or css, just install and active</p>
 
@@ -25,7 +28,6 @@ Widget Post Slider to display posts image in a slider from category.
 <li>Limiting slider with option</li>
 <li>Fully Responsive</li>
 </ul>
-
 
 
 == Installation ==
