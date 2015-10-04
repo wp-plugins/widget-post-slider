@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Widget Post Slider
-Plugin URI: http://shapedtheme.com/demo/plugins/widget-post-slider
-Author: ShapedTheme
-Author URI: http://shapedtheme.com
+Plugin https://wordpress.org/plugins/widget-post-slider/
+Author: ShapedPlugin
+Author URI: https://shapedplugin.com
 Description: Widget Post Slider to display posts image in a slider from category.
-Version: 1.0
+Version: 1.0.1
 License: GPL2
 Text Domain: shaped_theme
 */
@@ -48,7 +48,7 @@ class ST_Widget_Post_Slider extends WP_Widget{
 
 	function ST_Widget_Post_Slider()
 	{
-		$this->WP_Widget( 'ST_Widget_Post_Slider', __('Widget Post Slider', 'shaped_theme') , array('description' => __('Widget Post Slider to display posts', 'shaped_theme') ) );
+		parent::__construct( 'ST_Widget_Post_Slider', __('Widget Post Slider', 'shaped_theme') , array('description' => __('Widget Post Slider to display posts', 'shaped_theme') ) );
 	}
 
 
